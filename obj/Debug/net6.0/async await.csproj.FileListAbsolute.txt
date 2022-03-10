@@ -1,0 +1,15 @@
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\bin\Debug\net6.0\async await.exe
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\bin\Debug\net6.0\async await.deps.json
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\bin\Debug\net6.0\async await.runtimeconfig.json
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\bin\Debug\net6.0\async await.dll
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\bin\Debug\net6.0\ref\async await.dll
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\bin\Debug\net6.0\async await.pdb
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.csproj.AssemblyReference.cache
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.AssemblyInfoInputs.cache
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.AssemblyInfo.cs
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.csproj.CoreCompileInputs.cache
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.dll
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\ref\async await.dll
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.pdb
+C:\Users\Rober\Documents\1.0 ICA\Leerjaar 3\S2\WIN-Web_Infrastructures\presentatie\async await\obj\Debug\net6.0\async await.genruntimeconfig.cache
